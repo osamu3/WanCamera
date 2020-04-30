@@ -1,0 +1,20 @@
+{
+  "name": "wan_camera",
+  "version": "1.0.0",
+  "description": "ワン玄関カメラ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osamu3/WanCamera.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osamu3/WanCamera/issues"
+  },
+  "homepage": "https://github.com/osamu3/WanCamera#readme"
+}
